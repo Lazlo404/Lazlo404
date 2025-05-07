@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Lazlo404, cofounder of CatapulZ helping business to scale
+- 👋 Hi, I’m @Lazlo404, cofounder of CatapulZ helping business & ambitious professional to become wealthier and get more free time with AI 
 
-- 👀 I’m interested in meeting tech entrepreneurs, developers and engeneers...
-- 🌱 I’m currently building a process to make grow every businesses not only technologic ones... I need to test it ! 
+- 👀 I’m interested in meeting tech entrepreneurs, developers and AI engineers...
 
-- 💞️ I’m looking to help tech having a product or a tech and looking to build growth for free for the moment because I have asumptions to validate in my delivery
-- 📫 How to reach me wilfried@catapulz.io or on Catapulz.io...
+- 📫 How to reach me Here or wilfried@catapulz.io 
 
 <!---
 Lazlo404/Lazlo404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
